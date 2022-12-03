@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UniverPortal.props" />
+</Project>
